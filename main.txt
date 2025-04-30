@@ -1,5 +1,5 @@
 hello
 
-feat a stuff
+all branches be feat/
 
-here we add feat-1
+actually we want feat-a
